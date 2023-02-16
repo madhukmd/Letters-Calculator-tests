@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Letters-Calculator-tests/static/css/main.e0755ec5.chunk.css",
+    "main.js": "/Letters-Calculator-tests/static/js/main.32ce0749.chunk.js",
+    "main.js.map": "/Letters-Calculator-tests/static/js/main.32ce0749.chunk.js.map",
+    "runtime-main.js": "/Letters-Calculator-tests/static/js/runtime-main.5d39cfb7.js",
+    "runtime-main.js.map": "/Letters-Calculator-tests/static/js/runtime-main.5d39cfb7.js.map",
+    "static/js/2.8d80b7f2.chunk.js": "/Letters-Calculator-tests/static/js/2.8d80b7f2.chunk.js",
+    "static/js/2.8d80b7f2.chunk.js.map": "/Letters-Calculator-tests/static/js/2.8d80b7f2.chunk.js.map",
+    "index.html": "/Letters-Calculator-tests/index.html",
+    "static/css/main.e0755ec5.chunk.css.map": "/Letters-Calculator-tests/static/css/main.e0755ec5.chunk.css.map",
+    "static/js/2.8d80b7f2.chunk.js.LICENSE.txt": "/Letters-Calculator-tests/static/js/2.8d80b7f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d39cfb7.js",
+    "static/js/2.8d80b7f2.chunk.js",
+    "static/css/main.e0755ec5.chunk.css",
+    "static/js/main.32ce0749.chunk.js"
+  ]
+}
